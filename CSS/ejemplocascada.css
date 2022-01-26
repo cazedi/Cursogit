@@ -1,0 +1,13 @@
+
+@charset "utf-8";
+/* CSS Document */
+h1 {
+	text-align: center;
+	color:red;
+}
+table {
+	text-align: center;
+	color: green;
+	font-family: Arial Black;
+	margin: 0 auto;
+}
